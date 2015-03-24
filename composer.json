@@ -1,7 +1,8 @@
 {
-    "name": "anomaly/standard_post_type-extension",
+    "name": "anomaly/default_post_type-extension",
     "type": "streams-addon",
-    "description": "The standard post type for the Blog module.",
+    "description": "The default post type for the Blog module.",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "AnomalyLabs",
@@ -10,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Anomaly\\StandardPostTypeExtension\\": "src/"
+            "Anomaly\\DefaultPostTypeExtension\\": "src/"
         }
     },
     "extra": {

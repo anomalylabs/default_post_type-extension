@@ -1,3 +1,3 @@
-# standard_post_type-extension
+# Default Post Type
 
-The standard post type for the Blog module.
+The default post type for the Blog module.
